@@ -1,0 +1,39 @@
+body
+{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-repeat: no-repeat;
+    height: 150vh;
+}
+.main-heading
+{
+    font-family: 'Anton', sans-serif;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}
+.table-control
+{
+    margin-top: 30px;
+    text-align: center;
+}
+.table-complete-control
+{
+    margin-top: 200px;
+    text-align: center;
+}
+#btn
+{
+    color: #fff;
+}
+#complete
+{
+    color:lightgreen;
+}
+#edit
+{
+    color:rgb(138, 212, 236);
+}
+#delete
+{
+    color: red;
+}
